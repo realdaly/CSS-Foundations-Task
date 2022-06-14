@@ -20,6 +20,7 @@ p {
   width: 400px;
   background: green;
   /* Change me */
+  padding: 8px;
 }
 
 .title {
@@ -27,18 +28,24 @@ p {
   text-align: center;
   font-size: 16px;
   /* Change me */
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 8px;
 }
 
 .content {
   background: white;
   font-style: italic;
   /* Change me */
+  margin-bottom: 8px;
+  padding: 16px 8px;
 }
 
 .button-container {
   background: white;
   text-align: center;
   /* Change me */
+  padding: 8px;
 }
 
 button {
@@ -48,4 +55,6 @@ button {
   background-color: rgb(204, 237, 204);
   display: block;
   /* Change me */
+  padding: 8px 24px;
+  margin: auto;
 }

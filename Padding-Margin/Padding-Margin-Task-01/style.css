@@ -1,5 +1,7 @@
 body {
   /* Change me */
+  padding: 0 10px 0 10px;
+  background-color: wheat;
 }
 
 h1 {
@@ -12,6 +14,7 @@ h1 {
 img.header-img {
   display: block;
   /* Change me */
+  margin: auto;
 }
 
 p {
@@ -27,6 +30,7 @@ li {
 img {
   border-radius: 10px;
   /* Change me */
+  margin: 10px;
 }
 
 button {
@@ -36,4 +40,6 @@ button {
   font-size: 20px;
   width: 150px;
   /* Change me */
+  margin: 10px;
+  padding: 10px 20px;
 }
